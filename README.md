@@ -31,6 +31,9 @@ Microsoft Excel · Power BI Desktop (Power Query, DAX) · Kaggle (data source)
 - **Administrative rights** is the rarest category (147 tickets, 3.7%) but the 2nd-most complex (53.82 avg words) — low volume, high effort, a good candidate for better self-service documentation.
 - **Storage** tickets are both low-volume (232) and the least complex (34.80 avg words) — likely quick, routine requests, a strong candidate for automation.
 
+## What This Led To — Phase 2
+This analysis is Phase 1 of a two-part initiative. The Storage finding above — low volume, lowest complexity of all 8 categories — became the business case for **[Phase 2: IT Storage Request Self-Service Portal, a Business Requirements Document](https://github.com/bhavna-rao/it-storage-selfservice-portal-phase2)**, where that insight is turned into formal, stakeholder-ready requirements for a self-service solution. Phase 1 is the diagnostic analysis; Phase 2 is the requirements it justified.
+
 ## Files in this repo
 - `Data/it_tickets_sample_4000.csv` / `.xlsx` — the 4,000-ticket working sample
 - `Power BI/IT Service Ticket.pbix` — the Power BI report file
