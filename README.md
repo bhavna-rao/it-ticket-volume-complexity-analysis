@@ -24,7 +24,8 @@ IT service desks handle a high volume of support tickets across varied categorie
    - **Content Insights** — a Word Cloud of ticket text, a table of ticket volume and average word count by category, and written key findings.
 
 ## Tools Used
-Microsoft Excel · Power BI Desktop (Power Query, DAX) · Kaggle (data source)
+Microsoft Excel · Power BI Desktop (Power Query, DAX) · Claude AI (Power BI Modeling MCP) · Kaggle (data source)
+*The DAX measures and calculated columns were designed by me; I took help from Claude AI, connected via an MCP-connected modeling server, where required to implement them — and reviewed and validated every formula against the data before keeping it.*
 
 ## Key Insights
 - **Hardware** is both the largest category (1,139 tickets, 28.5%) and the most complex (59.46 avg words) — the highest-volume category is also the highest-effort one.
