@@ -4,8 +4,8 @@
 IT service desks handle a high volume of support tickets across varied categories (hardware issues, access requests, HR support, and more). This project analyzes a sample of IT service tickets to understand how ticket volume is distributed across categories, and whether ticket complexity (measured by text length) differs by category — in order to identify workload hotspots and good candidates for automation or self-service.
 
 ## Dashboard Preview
+![Overview page](ScreenShots/overview-page.png)
 ![Content Insights page](ScreenShots/content-insights-page.png)
-*(Overview page screenshot coming soon)*
 
 ## Data Source
 - **Source:** Kaggle — [IT Service Ticket Classification Dataset](https://www.kaggle.com/datasets/adisongoh/it-service-ticket-classification-dataset) by adisongoh
